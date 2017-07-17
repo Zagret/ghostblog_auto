@@ -8,3 +8,5 @@ Open a terminal window (or use the command cd /FOLDER , where folder is the fold
 and run the command: sudo bash ghostblog.sh
 
 The script will download & unzip ghost and will also make any folders needed. Up from a point you need to manually configure GHOST "configure" file
+
+This is my first public script so any optimizations and help will be apreciated. 
